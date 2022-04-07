@@ -111,7 +111,7 @@ class App extends React.Component {
     return (
       <div className="app">
         <div className="header">
-          <HeaderElement />
+          <HeaderElement currencies={this.state.rates} />
         </div>
         <div className="inputField">
           <h1>Currency Converter</h1>
