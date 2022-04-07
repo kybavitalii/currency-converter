@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/kybavitalii/currency-converter/build/static/css/main.64620b9d.chunk.css",
+    "main.js": "/kybavitalii/currency-converter/build/static/js/main.1e119c81.chunk.js",
+    "main.js.map": "/kybavitalii/currency-converter/build/static/js/main.1e119c81.chunk.js.map",
+    "runtime-main.js": "/kybavitalii/currency-converter/build/static/js/runtime-main.d4f28695.js",
+    "runtime-main.js.map": "/kybavitalii/currency-converter/build/static/js/runtime-main.d4f28695.js.map",
+    "static/js/2.f92c3269.chunk.js": "/kybavitalii/currency-converter/build/static/js/2.f92c3269.chunk.js",
+    "static/js/2.f92c3269.chunk.js.map": "/kybavitalii/currency-converter/build/static/js/2.f92c3269.chunk.js.map",
+    "static/js/3.f6f42b96.chunk.js": "/kybavitalii/currency-converter/build/static/js/3.f6f42b96.chunk.js",
+    "static/js/3.f6f42b96.chunk.js.map": "/kybavitalii/currency-converter/build/static/js/3.f6f42b96.chunk.js.map",
+    "index.html": "/kybavitalii/currency-converter/build/index.html",
+    "static/css/main.64620b9d.chunk.css.map": "/kybavitalii/currency-converter/build/static/css/main.64620b9d.chunk.css.map",
+    "static/js/2.f92c3269.chunk.js.LICENSE.txt": "/kybavitalii/currency-converter/build/static/js/2.f92c3269.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d4f28695.js",
+    "static/js/2.f92c3269.chunk.js",
+    "static/css/main.64620b9d.chunk.css",
+    "static/js/main.1e119c81.chunk.js"
+  ]
+}
