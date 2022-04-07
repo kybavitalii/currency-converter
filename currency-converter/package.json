@@ -25,7 +25,7 @@
     "type": "git",
     "url": "git+https://github.com/kybavitalii/currency-converter.git"
   },
-  "homepage": "https://github.com/kybavitalii/currency-converter/",
+  "homepage": "https://kybavitalii.github.io/currency-converter/",
   "eslintConfig": {
     "extends": [
       "react-app",
